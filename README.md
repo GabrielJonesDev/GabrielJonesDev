@@ -6,4 +6,4 @@
 
 🌱 I’m currently learning a html and css codes
 
-view my official page : https://gabbystudios.github.io/GabrielJones/index.html
+view my official page : https://gabbystudios.github.io/GJ/index.html
